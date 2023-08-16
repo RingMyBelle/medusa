@@ -1,5 +1,14 @@
 # @medusajs/admin
 
+## 6.0.6
+
+### Patch Changes
+
+- [#4568](https://github.com/medusajs/medusa/pull/4568) [`4a448b68f`](https://github.com/medusajs/medusa/commit/4a448b68fde90beb956375018ac833f6478726e6) Thanks [@fPolic](https://github.com/fPolic)! - feat(admin-ui): bulk advanced selections + copy/paste
+
+- Updated dependencies [[`4a448b68f`](https://github.com/medusajs/medusa/commit/4a448b68fde90beb956375018ac833f6478726e6)]:
+  - @medusajs/admin-ui@1.9.5
+
 ## 6.0.5
 
 ### Patch Changes

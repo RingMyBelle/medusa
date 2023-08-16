@@ -1,5 +1,14 @@
 # Change Log
 
+## 9.0.4
+
+### Patch Changes
+
+- [#4747](https://github.com/medusajs/medusa/pull/4747) [`9469063f6`](https://github.com/medusajs/medusa/commit/9469063f643180002ede7a8e94c6de53d2770d04) Thanks [@olivermrbl](https://github.com/olivermrbl)! - fix(medusa-js): return type of collection hook + export
+
+- Updated dependencies [[`9469063f6`](https://github.com/medusajs/medusa/commit/9469063f643180002ede7a8e94c6de53d2770d04)]:
+  - @medusajs/medusa-js@6.0.3
+
 ## 9.0.3
 
 ### Patch Changes
